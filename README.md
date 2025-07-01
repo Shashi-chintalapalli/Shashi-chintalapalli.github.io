@@ -1,81 +1,105 @@
-# Shashi Chintalapalli Portfolio
+<h1 align="center">Hi, I'm Shashi Kumar Reddy Chintalapalli 👋</h1>
 
-Welcome to my portfolio! Here, you will find information about my background, skills, experience, and projects.
+<p align="center">
+  <a href="mailto:shashi.chintalapalli@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shashi-chintalapalli/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Shashi-chintalapalli">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-## About Me
+---
 
-With over 1 year of comprehensive experience in the field of data science & analytics, accompanied by a bachelor's degree in engineering. Proficient in data analysis, statistical analysis, hypothesis testing, customer behaviour analysis, & machine learning. Demonstrated success in leading impactful projects.
+## 🧑‍💼 About Me
 
-### Profile:
-- **Name:** Shashi Kumar Reddy
-- **Job Role:** Vas Engineer
-- **Experience:** 1 Year 3 Months
-- **Address:** Hyderabad, India
+With over **1 year of hands-on experience** in data analytics and machine learning, I have developed strong skills in **Python, SQL, Power BI, and statistical modeling**. I’m passionate about building intelligent solutions using data, ML/DL, and visual analytics.
 
-### Skills:
-- **SQL:** 85%
-- **Python:** 85%
-- **Data Visualization:** 80%
-- **Statistical Analysis:** 85%
-- **Machine Learning:** 80%
-- **Deep Learning:** 70%
-- **Other Skills:** Excel, Git, Google Analytics
-- **BI Tools:** Microsoft Power BI
-- **Languages:** English, Telugu, Hindi
-- **Interests:** Traveling, Cricket
+- 🎯 **Current Role**: VAS Engineer at Vodafone Idea
+- 🧠 **Skills**: Data Science, ML/DL, SQL, Power BI, Python
+- 🌐 **Location**: Hyderabad, India
+- 📫 **Email**: shashi.chintalapalli@gmail.com
 
-## Experience
+---
 
-### Vas Engineer
-**Quess Crop**  
-*2023 - Present*
+## 🔧 Skills
 
-- Utilize HPSM for ticket assignment, ensuring efficient management.
-- Create Python data visualizations to highlight insights daily.
-- Perform monitoring tasks for Vodafone Idea's service using TEMIP.
-- Generate SLA reports to uphold service performance standards consistently.
-- Prepare daily Microsoft Excel reports to communicate critical updates.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />
+</p>
 
-### Machine Learning Intern
-**Feynn Labs**  
-*Feb 2023 - May 2023*
+---
 
-- Developed a market segmentation model for an electric vehicle startup, utilizing SQL for efficient data management and retrieval.
-- Employed data visualization techniques to effectively communicate insights and utilized feature engineering to enhance model performance.
-- Implemented the model in Python using the scikit-learn library, ensuring robustness and accuracy in segmentation strategies.
+## 💼 Experience
 
-## Education
+### 🔧 VAS Engineer — *Quess Corp* (2023–Present)
 
-### Bachelor of Technology
-**TKR Engineering College**  
-*2018 - 2022*  
-Grade: First class distinction.
+- Handled ticket assignment in HPSM for Vodafone Idea.
+- Developed data visualizations using Python for performance insights.
+- Monitored network alerts via TEMIP and ensured SLA compliance.
+- Created dashboards and daily reports in Excel & Power BI.
 
-### Higher Secondary School
-**Narayana Junior College**  
-*2016 - 2018*  
-Grade: First class distinction.
+### 🤖 Machine Learning Intern — *Feynn Labs* (Feb 2023 – May 2023)
 
-## Certification
+- Built an EV market segmentation model using Python and SQL.
+- Conducted feature engineering and data visualization.
+- Applied Scikit-learn for classification and clustering tasks.
 
-### Full Stack Data Science
-**Codingrad**  
-*Oct 2021 - Jan 2022*  
-Skills: Python, SQL, Machine Learning.
+---
 
-## Projects
+## 🎓 Education
 
-### [Digital Music Store Data Analysis using SQL](https://github.com/Shashi-chintalapalli/-SQL_Music_Store_Analysis)
-Analyzed music store data using advanced SQL queries to identify gaps and increase business growth.
+- 🎓 **B.Tech (ECE)** — *TKR Engineering College, 2018–2022*  
+  Grade: First Class with Distinction
 
-### [Diwali Sales Analysis using Python](https://github.com/Shashi-chintalapalli/Python_Diwali_Sales_Analysis)
-Conducted a comprehensive analysis of Diwali sales data using Python to identify trends and insights.
+- 🎓 **Intermediate** — *Narayana Junior College, 2016–2018*  
+  Grade: First Class with Distinction
 
-For more projects, please visit my [GitHub](https://github.com/Shashi-chintalapalli).
+---
 
-## Contact
+## 📜 Certification
 
-- [LinkedIn](https://www.linkedin.com/in/shashi-chintalapalli/)
-- [GitHub](https://github.com/Shashi-chintalapalli)
+- 📘 **Full Stack Data Science** — *Codingrad (Oct 2021 – Jan 2022)*  
+  Skills: Python, SQL, Machine Learning
 
+---
 
+## 🚀 Projects
+
+| Project | Description |
+|--------|-------------|
+| [🎬 Movie Review Sentiment Analyzer](https://movie-review-sentiment-analyzer-f864.onrender.com/) | A Flask-based web app that predicts review sentiment using NLP & ML |
+| [🧠 Personal AI Assistant](https://personal-ai-assistant-7m7l.onrender.com/) | A voice-based AI assistant capable of answering questions |
+| [📊 SQL Music Store Analysis](https://github.com/Shashi-chintalapalli/-SQL_Music_Store_Analysis) | Performed SQL queries to extract music store insights |
+| [🛍️ Diwali Sales Analysis](https://github.com/Shashi-chintalapalli/Python_Diwali_Sales_Analysis) | Explored and visualized e-commerce sales using Python & Pandas |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashi-chintalapalli&show_icons=true&theme=dark" width="60%" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shashi-chintalapalli/)
+- 📧 [Email](mailto:shashi.chintalapalli@gmail.com)
+- 🖥️ [Portfolio](https://shashi-chintalapalli.github.io/)
