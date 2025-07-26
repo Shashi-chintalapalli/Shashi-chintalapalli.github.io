@@ -16,7 +16,7 @@
 
 ## 🧑‍💼 About Me
 
-With over **1 year of hands-on experience** in data analytics and machine learning, I have developed strong skills in **Python, SQL, Power BI, and statistical modeling**. I’m passionate about building intelligent solutions using data, ML/DL, and visual analytics.
+With over **2 year of hands-on experience** in data analytics and machine learning, I have developed strong skills in **Python, SQL, Power BI, and statistical modeling**. I’m passionate about building intelligent solutions using data, ML/DL, and visual analytics.
 
 - 🎯 **Current Role**: VAS Engineer at Vodafone Idea
 - 🧠 **Skills**: Data Science, ML/DL, SQL, Power BI, Python
