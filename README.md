@@ -47,7 +47,7 @@ With over **2 year of hands-on experience** in data analytics and machine learni
 
 ## 💼 Experience
 
-### 🔧 VAS Engineer — *Quess Corp* (2023–Present)
+### 🔧 Data Analyst – Service Operations — *Vodafone Idea Limited (via Quess Corp)* (2023–Present)
 
 - Handled ticket assignment in HPSM for Vodafone Idea.
 - Developed data visualizations using Python for performance insights.
